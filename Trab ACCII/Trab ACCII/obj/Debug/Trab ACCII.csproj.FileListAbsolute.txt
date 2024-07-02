@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\bin\Debug\Trab ACCII.exe.config
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\bin\Debug\Trab ACCII.exe
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\bin\Debug\Trab ACCII.pdb
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\obj\Debug\Trab ACCII.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\obj\Debug\Trab_ACCII.Form1.resources
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\obj\Debug\Trab_ACCII.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\obj\Debug\Trab ACCII.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\obj\Debug\Trab ACCII.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\obj\Debug\Trab ACCII.exe
+C:\Users\Daniel\source\repos\Trab ACCII\Trab ACCII\obj\Debug\Trab ACCII.pdb
