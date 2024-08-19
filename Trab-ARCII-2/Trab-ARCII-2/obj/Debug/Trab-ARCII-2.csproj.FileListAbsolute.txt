@@ -1,0 +1,10 @@
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\bin\Debug\Trab-ARCII-2.exe.config
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\bin\Debug\Trab-ARCII-2.exe
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\bin\Debug\Trab-ARCII-2.pdb
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\obj\Debug\Trab-ARCII-2.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\obj\Debug\Trab_ARCII_2.Form1.resources
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\obj\Debug\Trab_ARCII_2.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\obj\Debug\Trab-ARCII-2.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\obj\Debug\Trab-ARCII-2.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\obj\Debug\Trab-ARCII-2.exe
+C:\Users\Daniel\source\repos\Trab-ARCII-2\Trab-ARCII-2\obj\Debug\Trab-ARCII-2.pdb
